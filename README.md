@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![cover](img/20230523_095413-removebg-preview.png)
 <!--
 **Laurent-Finana/Laurent-Finana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
