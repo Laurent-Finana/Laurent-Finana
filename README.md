@@ -13,7 +13,6 @@ I'm Laurent, **web developper** from **Reims, France.** For now i'm more comfort
 
 ![PHP](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-php-48.png) &nbsp; &nbsp;
 ![Symfony](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-symfony-48.png) 
-**Insomnia**
 
 ## Database
 ![MySQL](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-mysql-an-open-source-relational-database-management-system-48.png) &nbsp; &nbsp;
