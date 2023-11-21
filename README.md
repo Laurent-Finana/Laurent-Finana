@@ -15,4 +15,12 @@ I'm Laurent, **web developper** from **Reims, France.** For now i'm more comfort
 ![Symfony](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-symfony-48.png) 
 
 ## Database
+![MySQL](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-mysql-an-open-source-relational-database-management-system-48.png)
+![MariaDB](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-mariadb-48.png)
+
 ## Softwares & tools
+![Git](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-git-48.png)
+![GitHub](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-github.svg)
+![VSCode](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-visual-studio-code-48.png)
+![Linux](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-linux-48.png)
+![Windows](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-windows-48.png)
