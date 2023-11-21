@@ -4,6 +4,7 @@ I'm Laurent, **web developper** from **Reims, France.** For now i'm more comfort
 
 ## Front-end
 ![HTML5](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-html-48.png)
+![CSS3](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-css-48.png)
 
 ## Back-end
 
