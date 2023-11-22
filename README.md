@@ -19,6 +19,7 @@ I'm Laurent, **web developper** from **Reims, France.** For now i'm more comfort
 ![MariaDB](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-mariadb-48.png)
 
 ## Softwares & tools
+![Postman](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/getpostman-icon.svg)
 ![Git](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-git-48.png)
 ![GitHub](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-github.svg)
 ![VSCode](https://github.com/Laurent-Finana/Laurent-Finana/blob/main/img/icons8-visual-studio-code-48.png)
